@@ -1,5 +1,5 @@
 # Pathfinder
-I made a simple pathfinder program in Python.
+I made a pathfinder program in Python using a simple algorithm.
 
 pathfinder_v2.py is a remake, it is much cleaner and actually works.
 
